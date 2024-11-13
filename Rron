@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulting Transfrontalier</title>
+</head>
+<body>
+    <header>
+        <h1>Consulting Transfrontalier</h1>
+        <p>Votre Partenaire en Mobilité et Fiscalité Transfrontalière</p>
+    </header>
+    <main>
+        <section>
+            <h2>Nos Services</h2>
+            <ul>
+                <li><strong>Fiscalité</strong>: Optimisation fiscale et déclaration d’impôts</li>
+                <li><strong>Documents administratifs</strong>: Assistance pour tous vos documents</li>
+                <li><strong>Conseil en immobilier</strong>: Achat et vente de biens pour frontaliers</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contactez-nous</h2>
+            <p>Email : <a href="mailto:Rronbeqiraj@gmail.com">Rronbeqiraj@gmail.com</a></p>
+            <p>Téléphone : 0672095312</p>
+        </section>
+    </main>
+</body>
+</html>
